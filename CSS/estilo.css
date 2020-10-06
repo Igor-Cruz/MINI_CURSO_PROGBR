@@ -1,0 +1,23 @@
+body{
+			text-align: center;
+			margin: auto;
+			max-width: 500px;
+
+		}
+
+		#primeiro{
+			font-size: 25px;
+			color: black;
+			background-color:blue;
+			border-radius: 10px;
+			padding: 20px;
+		}
+
+		.fundoverde {
+			font-size: 25px;
+			color: black;
+			background-color:green;
+			border-radius: 10px;
+			padding: 20px;
+
+		}
